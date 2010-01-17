@@ -1,0 +1,6 @@
+to test this suite:
+
+cd test
+ruby sandwich_test.rb
+
+if it throws no errors, it's working.  Awesome.
